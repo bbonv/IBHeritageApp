@@ -27,7 +27,7 @@
                     "lat": "50.8789629",
                     "lon": "4.7013242",
                     "type": "statue",
-                    "name": "My Statue",
+                    "name": "Statue 1",
                     "images": [
                         "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_1.jpg",
                         "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_2.jpg"
